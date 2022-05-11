@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/mokhtarbouain/Documents/Python_scripts/pytorch-auto-drive/tools/culane_evaluation/devel -DCMAKE_INSTALL_PREFIX=/home/mokhtarbouain/Documents/Python_scripts/pytorch-auto-drive/tools/culane_evaluation/install -G Unix Makefiles
